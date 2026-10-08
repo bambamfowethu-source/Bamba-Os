@@ -1,0 +1,8 @@
+{
+  "name": "Remix Mvimbe",
+  "description": "Mvimbe (World Crime Unicorn) — Community safety, live crime maps, biometric clock-in, and instant incident reporting.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
